@@ -16192,6 +16192,10 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
   position: relative;
 }
 
+.table tbody{
+  font-size: .75rem;
+}
+
 .table-shopping>thead>tr>th {
   font-size: 0.75rem;
   text-transform: uppercase;
