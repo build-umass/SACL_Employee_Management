@@ -1,0 +1,41 @@
+.tModal {
+    max-width: 60%;
+    max-height: 80%;
+}
+
+.wModal {
+    max-width: 30%;
+    max-height: 80%;
+}
+
+.employee-table{
+    color: black;
+    padding-right: .2cm;
+}
+
+.table-header{
+    color: black;
+}
+
+.add-buttons{
+    padding-bottom: .5cm;
+    padding-top: .5cm;
+    padding-right: 0cm;
+}
+
+.button-label{
+    color: black;
+    font-size: medium;
+}
+
+.delete-button {
+    background-color: rgb(177, 27, 27) !important;
+}
+
+.custom-form-label {
+    color: black;
+}
+
+.image-upload>input {
+    display: none;
+  }
