@@ -15,8 +15,9 @@ $(document).ready( function () {
     } );
 
     $('#trainingTable').dataTable({
-        "ajax": "testData/hold.txt"
+        "ajax": "testData/training.txt"
     });
 
 } );
+
 

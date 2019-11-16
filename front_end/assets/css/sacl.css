@@ -2,6 +2,10 @@
     max-width: 60%;
     max-height: 80%;
 }
+.tModal2 {
+    max-width: 80%;
+    max-height: 80%;
+}
 
 .wModal {
     max-width: 30%;
@@ -39,3 +43,14 @@
 .image-upload>input {
     display: none;
   }
+
+.card-div{
+    padding-left: 1cm;
+    padding-right: 1cm;
+}
+
+.center-table{
+    margin: 0 auto;
+    width: 70%;
+    color: black;
+}
